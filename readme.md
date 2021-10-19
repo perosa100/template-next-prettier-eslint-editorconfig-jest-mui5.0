@@ -135,6 +135,8 @@
 "node_modules/": true
 },
 
+```sh
+
 // Terminal
 "terminal.integrated.copyOnSelection": false,
 "terminal.integrated.cursorBlinking": true,
@@ -263,3 +265,4 @@
 "typescript.inlayHints.variableTypes.enabled": true,
 "javascript.inlayHints.parameterTypes.enabled": true
 }
+```
